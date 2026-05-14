@@ -104,6 +104,7 @@
   "GoogleSCCDefinition",
   "GWorkspaceRAPI",
   "GoogleWorkspaceReportsAPI",
+  "GravityZoneDataConnector",
   "GreyNoise2SentinelAPI",
   "IdentityInfo",
   "ImpervaWAFCloudAPI",
@@ -160,6 +161,7 @@
   "QualysKB",
   "QualysVulnerabilityManagement",
   "RedCanaryDataConnector",
+  "RedSiftPush",
   "RubrikSecurityCloudAzureFunctions",
   "SailPointIdentityNow",
   "SalesforceServiceCloud",
@@ -292,5 +294,14 @@
   "KnowBe4Defend",
   "CTM360CBSConnectorDefinition",
   "CTM360HackerViewConnectorDefinition",
-  "XbowSecurityConnector"
+  "XbowSecurityConnector",
+  "NetskopeWebTxConnector",
+  "SOCPrimeAuditLogsDataConnector",
+  "ContrastADRCCF",
+  "CheckPointCyberintAlerts",
+  "CheckPointCyberintIOC",
+  "D3SOARConnectorDefinition",
+  "ValimailEnforce",
+  "VaikoraSentinel",
+  "VaikoraSecurityCenter"
 ]
